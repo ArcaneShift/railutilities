@@ -1,0 +1,10 @@
+{
+	"type":"smelting",
+	"ingredient":
+	{
+		"item":"minecraft:powered_rail"
+	},
+	"result":"minecraft:gold_nugget",
+	"experience":6,
+	"cookingtime":20
+}
